@@ -3,7 +3,7 @@
 
 <head>
 		  <meta charset="utf-8">
-		  <title>TSC Student Details</title>
+		  <title>Faridpur Polytechnic Institute - Student Details</title>
 		  <meta name="description" content="">
 		  <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -45,11 +45,11 @@
 			<div class="header-area">
 				<div class="middle-area">
 					<div class="header-text-area">
-						<b>BANGLADESH (TSC) STUDENTS</b>
+						<b>BANGLADESH STUDENTS</b>
 					</div>
 					<div class="header-botom">
-						<p><b>GOPALGANJ (TSC) STUDENTS</b></p>
-						<p><b>গোপালগঞ্জ (টিএসসি) শিক্ষার্থীরা</b></p>
+						<p><b>FARIDPUR (FPI) STUDENTS</b></p>
+						<p><b>ফরিদপুর (এফপিআই) শিক্ষার্থীরা</b></p>
 					</div>
 					<div class="login-area">
 						<form action="">
